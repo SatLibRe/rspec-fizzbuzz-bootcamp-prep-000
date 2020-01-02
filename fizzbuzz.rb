@@ -2,7 +2,6 @@
 # See README.md for instructions on how to do this
 
 def fizzbuzz(num)
-  fizz = num / 3 
     if num % 3 != 0 
         return "Fizz"
     end 
