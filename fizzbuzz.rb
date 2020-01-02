@@ -2,9 +2,9 @@
 # See README.md for instructions on how to do this
 
 def fizzbuzz(num)
-fizz = num % 3 == 0 
+fizz == 
     
-    if fizz
+    if num % 3 == 0 
         return "Fizz"
     elsif num % 5 == 0 
       return "Buzz"
