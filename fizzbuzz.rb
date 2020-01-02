@@ -2,7 +2,8 @@
 # See README.md for instructions on how to do this
 
 def fizzbuzz(num)
-  if num / 3 == true 
-    return "Fizz"
-  end 
+  fizz = num / 3 
+    if fizz == true && fizz != 0 
+        return "Fizz"
+    end 
 end 
